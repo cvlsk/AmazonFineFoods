@@ -7,4 +7,4 @@ This code was developed towards an assignment for the Data Mining course at Bost
 
 Refer to 'handout1.pdf' for more details.
 
-This problem was adapted from the Dataset availale at https://www.kaggle.com/snap/amazon-fine-food-reviews/data .
+This problem was adapted from the Dataset availale at https://www.kaggle.com/snap/amazon-fine-food-reviews/data.
